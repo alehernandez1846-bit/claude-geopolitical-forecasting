@@ -1,0 +1,474 @@
+question_id,model,condition,run,probability,forecast_date,timestamp_utc,parse_ok,response
+100,claude-sonnet-5-5,no_context,1,92.0,2026-10-15,2026-10-15T18:58:26+00:00,True,"Polling on Alberta separation has consistently put support for independence at roughly 25–35%. That leaves ""remain"" well ahead of the 50% threshold, with a margin of about 30 points or more.
+
+Referendums on secession also tend to shift toward the status quo as the vote approaches, as in Quebec in 1995 and Scotland in 2014. Voters often turn cautious about the economic and legal uncertainty. Alberta separatists would need an unusually large late swing to overcome this.
+
+The main remaining risks are:
+- The question might not actually appear on the ballot, or the vote might be delayed or restructured. I am treating the question's premise as meaning it will be held.
+- Polls could be wrong, or turnout could differ sharply between groups.
+
+Overall, ""remain"" winning a majority looks very likely.
+
+PROBABILITY: 92"
+17,claude-sonnet-5-5,no_context,1,27.0,2026-10-15,2026-10-15T18:59:32+00:00,True,"I'll estimate this by combining a House forecast with a Senate forecast.
+
+**House:** Democrats need a net gain of about 3 seats. The president's party typically loses House seats in midterms, and Trump's approval has been low (roughly the low 40s or below). Mid-decade redistricting in Texas, California (Prop 50), Missouri, North Carolina, Ohio, and other states roughly nets out, with a slight Republican edge. Democrats lead the generic ballot. I put Democrats at about 75-80% to win the House.
+
+**Senate:** Republicans hold 53-47, so Democrats need a net gain of 4 seats to reach 51, since 50-50 counts as NO. The targets are:
+- North Carolina (open seat, Cooper): lean D.
+- Maine (Collins): tossup.
+- Ohio (Husted vs. Sherrod Brown): tossup or lean R.
+- Texas (Paxton or Cornyn vs. Talarico or Crockett): lean R, but competitive.
+- Iowa (open seat) and Alaska (Sullivan, with Peltola possibly running): lean R.
+- Florida, Nebraska (Osborn, independent): longer shots.
+
+Democrats also have to defend Georgia, Michigan, New Hampshire, and Minnesota. Georgia (Ossoff) is lean D, and Michigan is tossup to lean D.
+
+Winning a net 4 seats requires sweeping most of the competitive races: NC, ME, OH, plus one of TX, AK, IA, or NE (where an independent would need to caucus with Democrats), all while holding GA and MI. Each is roughly 40-60%, with correlation through the national environment. In a wave, a Democratic Senate majority is plausible. I put it at about 25-30%.
+
+**Combined:** Senate control is highly correlated with a House win, because a Senate majority would require a strong Democratic environment, in which the House is nearly certain. So P(both) is about the Senate probability times a conditional House probability of roughly 95%, which gives about 25%.
+
+Prediction markets in this period priced Democratic Senate control at roughly 30-40%, I believe. I'll shade toward that and settle on about 27%.
+
+PROBABILITY: 27"
+17,claude-sonnet-5-5,no_context,2,30.0,2026-10-15,2026-10-15T18:59:38+00:00,True,"Key considerations:
+
+**House:** Democrats need a net gain of about 3 seats (Republicans hold roughly 220-215 at the start of the cycle). Historically the president's party loses House seats in midterms, and Trump's approval has been below 45%. The generic ballot has favored Democrats. Mid-decade redistricting (Texas, California Prop 50, Missouri, North Carolina, Ohio, and others) has roughly offset, though Virginia and other states add some uncertainty. Court rulings, including a Louisiana v. Callais decision, may affect Voting Rights Act districts. Overall I put Democrats at about 75-80% to win the House.
+
+**Senate:** Republicans hold 53-47. Democrats need a net gain of 4 seats to reach 51, since a 50-50 tie counts as NO. Targets include North Carolina (open seat), Maine (Collins), Ohio (special, Husted vs. Sherrod Brown), Alaska (Sullivan, possibly Peltola), Iowa (open), Texas (Paxton or Cornyn vs. Talarico or Crockett), and Florida. Democrats must also defend Georgia, Michigan, New Hampshire, and Minnesota. Winning four net seats would require a strong wave, with NC, Maine, Ohio, and Alaska or Texas or Iowa all going their way. Prediction markets in late 2025 and 2026 put Democratic Senate control at roughly 30-40%, and I'd estimate about 30%.
+
+**Joint probability:** The two outcomes are strongly correlated, since a Senate win would likely come with a House win. P(Senate) ≈ 0.30, and P(House | Senate) ≈ 0.97, so the joint is about 0.29. I'll say about 0.30.
+
+PROBABILITY: 30"
+17,claude-sonnet-5-5,no_context,3,30.0,2026-10-15,2026-10-15T18:59:42+00:00,True,"Current setup: Republicans hold the Senate 53-47, and the House by a narrow margin. Democrats need a net gain of 4 Senate seats for a 51-seat majority, since 50-50 counts as NO. The 2026 Senate map is tough for Democrats. They would need to hold Georgia (Ossoff) and Michigan (open seat), and to win North Carolina (open), Maine (Collins), Ohio (special, Husted vs. Sherrod Brown), Texas, Iowa, Alaska (Peltola?), and so on. Getting to 51 requires winning, for example, NC, Maine, Ohio, and Alaska or Texas or Iowa, while holding everything else.
+
+The House is likely to go to Democrats, at roughly 75-80%, given the midterm penalty for the president's party, though mid-decade redistricting (Texas, Florida, Missouri, North Carolina, Ohio vs. California, Virginia) muddies this. Generic ballot leads for Democrats have been several points.
+
+The Senate: prediction markets in late 2025 gave Democrats roughly 30-35%. I don't know how things have moved by October 2026. In a strong Democratic wave environment (D+5 or more), the Senate is possible but still hard. I'd put it around 30-35%.
+
+Joint probability: the two are highly correlated. If Democrats win the Senate, they almost surely win the House. So the joint is about the Senate probability, about 0.3.
+
+I'll say 0.3.
+
+PROBABILITY: 30"
+17,claude-sonnet-5-5,no_context,4,24.0,2026-10-15,2026-10-15T18:59:47+00:00,True,"I estimate about a 20% chance that Democrats win both chambers.
+
+**House:** Democrats need a net gain of about 3 seats. The president's party usually loses seats in midterms, and Trump's approval is low, so a Democratic House is likely. Mid-decade redistricting (Texas, California's Prop 50, Missouri, North Carolina, Ohio, and possibly Virginia and Florida) roughly nets out, with a slight Republican edge. I put the Democratic House probability at about 75-80%.
+
+**Senate:** The current split is 53-47 Republican. Democrats need a net gain of 4 seats for 51, since 50-50 counts as NO. Their targets are North Carolina (open seat), Maine (Collins), Ohio (Husted special), Alaska (Sullivan, with Peltola possibly running), Texas (Paxton or Cornyn), Iowa (open seat), and Florida. They must also hold Georgia, Michigan, New Hampshire, and Minnesota. The map is tough. Winning NC, Maine, Ohio, and Alaska together, plus holding everything else, would require a significant wave. Prediction markets in late 2025 put Democratic Senate control at roughly 30-35%, and I assume that is about the same now.
+
+**Correlation:** The two outcomes are strongly correlated, since a Senate win would come with a wave that also delivers the House. P(Senate) is about 28%, and P(House | Senate) is about 95%. That gives roughly 26%. Markets for ""Democrats sweep both"" were around 25-30% when last I knew. I'll shade down a little for the difficulty of the map.
+
+PROBABILITY: 24"
+17,claude-sonnet-5-5,no_context,5,30.0,2026-10-15,2026-10-15T18:59:52+00:00,True,"Key considerations:
+
+**House:** Republicans hold a narrow majority. The president's party usually loses seats in midterms, and Trump's approval has been below 50%. Democrats were favored to win the House in most forecasts, and generic ballot leads were present. Redistricting wars in Texas, California, Missouri, North Carolina, Ohio, Virginia and elsewhere have partly offset each other. I'd put Democratic House control at about 75-80%.
+
+**Senate:** Republicans hold 53-47. Democrats need a net gain of 4 seats to reach 51, since 50-50 counts as NO. Targets: North Carolina (open seat, Cooper), Maine (Collins), Ohio (Husted vs. Sherrod Brown), Texas (Paxton or Cornyn vs. Talarico/Crockett), Iowa (open), Alaska (Peltola potentially), and Florida. Democrats must also defend Georgia, Michigan, New Hampshire, and Minnesota. Getting a net +4 requires winning, for example, NC, Maine, Ohio and one of Alaska/Texas/Iowa while holding everything else. That's a hard path, and I'd estimate about 25-30%, perhaps higher if there is a wave environment. Prediction markets in late 2025 and early 2026 had Senate Democratic odds around 30-40%, I believe.
+
+**Joint:** The two are highly correlated. The Senate win would occur mainly in a wave environment where the House is nearly certain. So the joint probability is about the Senate probability, roughly 27-33%.
+
+Given the date of October 15, I don't have current polling data. I'll go with about 30%.
+
+PROBABILITY: 30"
+18,claude-sonnet-5-5,no_context,1,55.0,2026-10-15,2026-10-15T19:00:00+00:00,True,"Because today is October 15, 2026, the first round (October 4) has already happened, and the question assumes Lula is in the October 25 runoff. I don't know the first-round results, so I'm relying on pre-cutoff information.
+
+- **Likely opponent:** Flávio Bolsonaro, the Bolsonaro family's candidate, looked like the main challenger. Tarcísio de Freitas chose to seek reelection in São Paulo instead of running.
+- **Polling:** Runoff polls from late 2025 into early 2026 generally showed Lula slightly ahead, by roughly 3 to 8 points. Some later polls showed the race tightening to near a tie.
+- **Incumbency:** Lula's approval had recovered somewhat, which helps him. Brazilian runoffs are still often close and polarized, and the right tends to consolidate behind one candidate in the second round.
+- **Edge cases:** If the runoff did not happen, for example because Lula won outright in the first round, this question would not resolve YES. That slightly lowers the probability.
+
+Overall I see a modest edge for Lula, a bit better than a coin flip.
+
+PROBABILITY: 55"
+18,claude-sonnet-5-5,no_context,2,55.0,2026-10-15,2026-10-15T19:00:06+00:00,True,"I don't know the first-round result from October 4, so this estimate rests on priors and the polling I last knew about.
+
+- **Matchup:** The question assumes a runoff in which Lula is a finalist. His likely opponent is Flávio Bolsonaro, the Bolsonaro family's chosen candidate, though I can't confirm that.
+- **Polling:** Earlier runoff polls showed Lula slightly ahead of Flávio Bolsonaro, but within a few points. That is a thin lead.
+- **Base rate:** The 2022 runoff, which Lula won 50.9% to 49.1%, shows how tight these races can be. Brazil is closely polarized, and polls have often underestimated the right.
+- **Incumbency:** Lula's incumbency helps through name recognition and a strong base in the Northeast. It also exposes him to the effects of weak approval and inflation.
+
+Overall this looks close to a toss-up, with a modest edge to Lula.
+
+PROBABILITY: 55"
+18,claude-sonnet-5-5,no_context,3,55.0,2026-10-15,2026-10-15T19:00:12+00:00,True,"I don't have the first-round results from October 4, so this forecast rests on priors and the polling I know from earlier.
+
+- **Setup:** The question presupposes a runoff, so Lula did not win outright in the first round. The most likely opponent is Flávio Bolsonaro, the right's main candidate, though I can't confirm that.
+- **Polling:** Runoff simulations through late 2025 and early 2026 generally showed Lula slightly ahead of Flávio Bolsonaro, often within a few points and sometimes tied. Lula's approval had also recovered somewhat.
+- **Structure:** Brazilian runoffs tend to be close and polarized. The 2022 runoff was decided by about 1.8 points. Lula has a strong base in the Northeast, while the right has strength in the South, Center-West and São Paulo.
+- **Incumbency:** Lula holds the advantages of incumbency, but his approval is only moderate. That leaves him a slight favorite rather than a clear one.
+
+I put Lula's chance of winning slightly above even.
+
+PROBABILITY: 55"
+18,claude-sonnet-5-5,no_context,4,55.0,2026-10-15,2026-10-15T19:00:18+00:00,True,"I don't have the first-round results from October 4, 2026, so this estimate rests on what I knew earlier and on the fact that a runoff is happening at all.
+
+- **Likely matchup:** Lula against Flávio Bolsonaro, Jair Bolsonaro's chosen candidate. Tarcísio de Freitas chose to seek re-election in São Paulo rather than run for president.
+- **Polling:** Earlier polls showed Lula narrowly ahead of Flávio Bolsonaro in a runoff, by a few points. Lula's approval had also recovered somewhat by late 2025.
+- **Incumbency:** Lula has the advantages of the office and a strong base in the Northeast. Brazil is also deeply polarized, so a runoff is likely to be close.
+- **Runoff signal:** The question exists, so Lula did not win outright in the first round. That is mildly negative for him, though a runoff was widely expected anyway.
+
+Overall, I see Lula as a slight favorite in what is likely a close race.
+
+PROBABILITY: 55"
+18,claude-sonnet-5-5,no_context,5,57.0,2026-10-15,2026-10-15T19:00:24+00:00,True,"I don't know the first-round results from October 4, so this forecast rests on what I know of the race and on the question's framing.
+
+- **Framing:** The question assumes a runoff on October 25 and asks whether Lula wins it, so he is very likely one of the two candidates. The most likely opponent is a right-wing candidate, probably Flávio Bolsonaro or Tarcísio de Freitas.
+- **Polls:** As of my latest information, Lula led the likely right-wing runoff opponents by a few points, roughly 45–47% against 40–43%. His approval had also recovered somewhat in late 2025.
+- **Incumbency:** Brazil's runoffs have usually been close. The 2022 runoff was decided by about 1.8 points. An incumbent with a modest poll lead is a slight favorite, not a strong one.
+- **Uncertainty:** I don't know how the first round actually went, or whether Lula's lead has held. The right also tends to consolidate behind one candidate in a runoff, which narrows the gap.
+
+I put Lula's chance of winning at somewhat better than even.
+
+PROBABILITY: 57"
+24,claude-sonnet-5-5,no_context,1,8.0,2026-10-15,2026-10-15T19:00:31+00:00,True,"I put the chance of scheduled passenger flights by October 31, 2026 at about 8%.
+
+This rests on my recollection, which I'm not sure of. Western Sydney International (Nancy-Bird Walton) Airport has consistently been described as opening to passengers in ""late 2026"". That phrasing normally points to November or December rather than October.
+
+Airlines would also have had to put tickets on sale well ahead of any opening, and I haven't seen an announced first-flight date in October. The airport would still need a long operational readiness and trial period after terminal construction finished, which makes a date as early as October less likely.
+
+I may be missing a more recent announcement, which is why the probability isn't lower.
+
+PROBABILITY: 8"
+24,claude-sonnet-5-5,no_context,2,7.0,2026-10-15,2026-10-15T19:00:39+00:00,True,"Western Sydney International Airport (Nancy-Bird Walton) has been officially targeting passenger operations in ""late 2026"". I can't confirm an exact first-flight date. Late-2026 openings usually land in November or December, and airlines tend to start new airport operations at schedule changes or with a clear marketing lead time. The Australian summer schedule change falls in late October, so that is a small chance, but I recall no announcement of a first flight before October 31. It is now October 15, so a flight in the next two weeks would almost certainly need to be public already. I recall no such announcement, and my recollection leans toward a later opening, around December. I put the chance of a scheduled passenger flight by October 31 at roughly 7%.
+
+PROBABILITY: 7"
+24,claude-sonnet-5-5,no_context,3,7.0,2026-10-15,2026-10-15T19:00:46+00:00,True,"Western Sydney International (Nancy-Bird Walton) has been planned to open for passengers in ""late 2026"". As I recall, the plan was for the terminal to be finished in early 2026, followed by several months of operational trials before the first scheduled flights.
+
+I can't recall a confirmed first-flight date, and my recollection of a December opening is weak. If flights were due before the end of October, I would expect a firm date and visible ticket sales by now, and I have no sign of either. The question's October 31 cutoff also looks more like a test of an early opening than a reflection of a known schedule. Late-year openings for large airports tend to slip later rather than earlier.
+
+That leaves a small chance that the opening falls in the last two weeks of October.
+
+PROBABILITY: 7"
+24,claude-sonnet-5-5,no_context,4,7.0,2026-10-15,2026-10-15T19:00:52+00:00,True,"I estimate a low probability that scheduled passenger flights begin at Western Sydney International Airport by October 31, 2026.
+
+- The airport has been guided to open for passengers in ""late 2026"". As I recall, that guidance covered the period after the end of October, and I think the airlines' plans pointed to a later start.
+- I vaguely recall a December 2026 opening date, but I am not certain of it.
+- With only about two weeks left, an opening on or before October 31 would need to be already scheduled. A start that close would normally have been widely publicised, with tickets on sale, and I have no sign of that.
+
+PROBABILITY: 7"
+24,claude-sonnet-5-5,no_context,5,5.0,2026-10-15,2026-10-15T19:00:59+00:00,True,"Western Sydney International Airport (Nancy-Bird Walton) has been officially targeting a ""late 2026"" opening for passenger services. I can't pin down an exact first-flight date. My recollection is that airlines such as Qantas and Jetstar planned to start flights around the end of 2026, possibly early December. That is not certain.
+
+With only about two weeks left in the window, a first scheduled passenger flight by October 31 would require an opening date that I have no evidence of. Airports of this scale usually announce an opening date well ahead, and I have seen no sign of an October start. Large infrastructure openings also tend to slip later rather than earlier. There is some chance my recollection of the timing is wrong, so I leave a small probability.
+
+PROBABILITY: 5"
+44,claude-sonnet-5-5,no_context,1,,2026-10-15,2026-10-15T19:01:16+00:00,False,"Hurricane landfalls on Caribbean islands between mid-October and the end of November are uncommon but not rare. From memory, the recent record is roughly:
+
+- **Years with a qualifying landfall on a Caribbean island:** 2010 (Tomas, Saint Lucia), 2012 (Sandy, Cuba), 2022 (Nicole, Bahamas), 2023 (Tammy, Barbuda), 2024 (Rafael, Cuba) and 2025 (Melissa, Jamaica and Cuba). Belize (Lisa, 2022) and Nicaragua (several years) are borderline, depending on whether the Central American coast counts as ""Caribbean.""
+- **Years with none:** most of the others since about 2009, including"
+44,claude-sonnet-5-5,no_context,2,22.0,2026-10-15,2026-10-15T19:01:31+00:00,True,"Base rates: hurricane landfalls in Caribbean islands between Oct 16 and Nov 30 are fairly common in some years but not most.
+
+Recent years:
+- 2025: Melissa (Cat 5, Jamaica, Oct 28), then Cuba. Yes.
+- 2024: Rafael (Cat 3, Cuba, Nov 6). Yes.
+- 2023: none (Tammy hit Barbuda on Oct 22 as a Cat 1, so yes).
+- 2022: none (Lisa hit Belize, which is Caribbean-adjacent, as a Cat 1 in early Nov; Nicole hit the Bahamas as a hurricane on Nov 9 (Grand Bahama, Cat 1), so yes).
+- 2021: none, I think.
+- 2020: Eta (Nicaragua, not an island; Cuba as TS), Iota (Nicaragua/Colombia's Providencia as a Cat 5, Nov 16). Yes, Providencia is Colombian Caribbean territory. Delta hit Cozumel area (Mexico, Oct 7), outside the window.
+- 2019: none.
+- 2018: none (Michael hit the US).
+- 2017: none after Oct 16.
+- 2016: Otto (Nicaragua/Costa Rica, Nov 24), mainland; Matthew was early October. Mainland Central America may or may not count as a ""Caribbean country."" Ambiguous.
+- 2015: none.
+- 2014: none.
+- 2012: Sandy (Jamaica, Cuba, Oct 24-25). Yes.
+- 2011-2010: Tomas (Nov 2010 passed through the Caribbean, Cat 1 near St. Lucia on Oct 31, Haiti as a Cat 1 outside?). Probably yes.
+
+So about 5-6 of the last 14 years, or roughly 40%. Recent years have been more active.
+
+For 2026, ENSO: the forecast suggests El Niño developing in 2026, which suppresses Atlantic activity, especially in the Caribbean. Today is Oct 15, and I don't know the current state of the season. With El Niño, the late-season Caribbean threat is reduced. Also, ""Caribbean country"" ambiguity could count Central American countries, adding some probability.
+
+I estimate about 22%.
+
+PROBABILITY: 22"
+44,claude-sonnet-5-5,no_context,3,22.0,2026-10-15,2026-10-15T19:01:37+00:00,True,"Base rates: hurricane landfalls in the Caribbean between Oct 16 and Nov 30 occur in some years but not most.
+
+Recent years:
+- 2025: Melissa (Jamaica, Oct 28, Cat 5) and Cuba landfall. Yes.
+- 2024: Rafael (Cuba, Nov 6, Cat 3). Yes.
+- 2023: none, I think. Tammy hit Barbuda on Oct 21-22 as a Cat 1 hurricane. Yes, that counts.
+- 2022: Lisa hit Belize on Nov 2 as a Cat 1. Belize is a Caribbean country, though not an island nation. Nicole hit the Bahamas (Grand Bahama) on Nov 9 as a Cat 1. Yes.
+- 2021: none, I think. No.
+- 2020: Eta (Nicaragua, Nov 3, not an island), Eta in Cuba as a tropical storm, Iota (Nicaragua, Colombia's Providencia as a Cat 4, Nov 16). Providencia is a Caribbean island, so yes.
+- 2019: none. No.
+- 2018: Michael hit the US, so no.
+- 2017: none. No.
+- 2016: Otto (Nicaragua, Nov 24). Not an island, though arguably Caribbean. Matthew was early October. Ambiguous.
+- 2015: none.
+- 2014: none.
+- 2012: Sandy hit Jamaica and Cuba on Oct 24-25. Yes.
+
+That gives roughly 5-6 yes years out of the last 14, or about 40% in recent years. The question says ""island nation or territory,"" which excludes Central American landfalls. Bahamas counts as Caribbean to many.
+
+2026 conditions: an El Niño is likely developing in 2026, which suppresses Atlantic activity, especially late season in the Caribbean. I don't know the season's status as of Oct 15. El Niño years such as 2023 still had Tammy, and 2015 had none. A weaker late season lowers the odds somewhat, so I'd put it at about 25%.
+
+PROBABILITY: 22"
+44,claude-sonnet-5-5,no_context,4,24.0,2026-10-15,2026-10-15T19:01:52+00:00,True,"Base rates: Caribbean hurricane landfalls from Oct 16 to Nov 30 occur in some years but not most.
+
+Recent years:
+- 2025: Melissa (Oct 28, Jamaica Cat 5, then Cuba), so yes.
+- 2024: Rafael (Nov 6, Cuba Cat 3), so yes. Oscar (Oct 20, Cuba/Bahamas Cat 1), so yes.
+- 2023: none (Tammy hit Barbuda on Oct 22 as a Cat 1, so yes).
+- 2022: none, since Lisa hit Belize (Central America, and not an island). Nicole hit the Bahamas in November as a Cat 1 (Grand Bahama, Nov 9), so yes. The Bahamas counts as a Caribbean country in many definitions, though ambiguous.
+- 2021: none, I think.
+- 2020: Eta (Nicaragua, not an island), Iota (Colombia's Providencia island, Nov 16, Cat 4), so yes. Also Delta hit Cuba/Mexico as a Cat 1-2 around Oct 6-7, which is outside the window.
+- 2019: none.
+- 2018: none (Michael skirted Cuba, no landfall as a hurricane).
+- 2017: none (Ophelia, no).
+- 2016: Matthew was early October, so no. Otto was Nicaragua/Costa Rica, so no.
+- 2015: none.
+- 2014: none.
+- 2013: none.
+- 2012: Sandy hit Cuba on Oct 25, so yes.
+- 2011: Rina was Mexico, so no.
+- 2010: Tomas hit Saint Lucia on Oct 30 and Haiti as a tropical storm, so yes.
+
+That's roughly 7 of 16 years, or about 40% over recent years, with a recent cluster.
+
+Now consider 2026. ENSO state: after La Niña in 2025–26, the forecast was for a possible El Niño developing in 2026. El Niño suppresses Atlantic activity, especially late-season Caribbean development. As of mid-October, I don't know the current activity. An El Niño year lowers the probability, so I'd estimate about 25%.
+
+PROBABILITY: 24"
+44,claude-sonnet-5-5,no_context,5,,2026-10-15,2026-10-15T19:02:08+00:00,False,"My estimate rests on the historical base rate, adjusted for what I expect of the 2026 season.
+
+**Base rate.** I went back through roughly 2007–2025 and counted years with a hurricane landfall on a Caribbean island nation or territory between Oct 16 and Nov 30. I counted these years:
+- 2007: Noel, Cuba
+- 2008: Paloma, Cuba and the Caymans
+- 2010: Tomas, St. Lucia
+- 2012: Sandy, Jamaica and Cuba
+- 2020: Iota, Providencia
+- 2022: Nicole, Bahamas
+- 2023: Tammy, Barbuda
+- 2024: Rafael, Cuba
+- 2025: Melissa, Jam"
+54,claude-sonnet-5-5,no_context,1,56.0,2026-10-15,2026-10-15T19:02:13+00:00,True,"This is close to a two-horse race between National and Labour, so I lean slightly toward National.
+
+- **Polling:** From what I recall of late 2025 polling, National sat at roughly 30–34% and Labour at roughly 30–35%. Different pollsters showed different leaders, and the average had National slightly ahead. I don't have reliable polling from 2026, so this is an estimate from older data.
+- **Other parties:** No other party is close to either of the two main parties. The question comes down to National versus Labour.
+- **Uncertainty:** The gap is within normal polling error. Leadership questions around Luxon and the usual shifts as an election approaches could move it either way.
+
+I put National a little ahead of a coin flip.
+
+PROBABILITY: 56"
+54,claude-sonnet-5-5,no_context,2,60.0,2026-10-15,2026-10-15T19:02:17+00:00,True,"I'm working from what I know through my training data, which doesn't cover the latest polling. The New Zealand election was announced for 7 November 2026. In 2025 polls, National sat around 30-34% and Labour around 28-34%, so the two were close. Labour led in some polls and National in others. The 2023 result was National 38.1% and Labour 26.9%.
+
+Through late 2025, polls were mixed: Taxpayers' Union-Curia and Roy Morgan often had National slightly ahead, around 31-35% against Labour's 29-34%. In some polls Labour led. NZ First was rising to about 8-12%, but it is not near first place.
+
+For late 2026 I have no data. National has generally held a small lead in aggregate polling, and incumbency and the National-led coalition's position slightly favor it. Still, it is a close race, and the question was likely generated because the outcome is uncertain. I put National at about 58-62% to finish first.
+
+PROBABILITY: 60"
+54,claude-sonnet-5-5,no_context,3,55.0,2026-10-15,2026-10-15T19:02:21+00:00,True,"I have no verified information about polling as of October 2026, so this rests on what I knew through 2025 plus an assumption about how things evolved.
+
+Through 2025, National and Labour were close. National typically polled around 30-34% and Labour around 29-35%. Some polls had Labour ahead, others National. The 2026 election date was announced as November 7, 2026, which matches the question.
+
+National has been the largest party since 2023, when it won 38%. Late-2025 polls showed National around 31-34% and Labour around 31-35%. This is a close race, and the other parties (ACT, NZ First, Greens, Te Pāti Māori) are well below both.
+
+NZ First has surged to about 8-12%, but not enough to top either major party. So the contest is National vs Labour, and I'd put National slightly ahead given incumbency and a historical tendency for National to outperform its polling. Labour under Hipkins has shown some strength, though. The 2026 trend is unknown to me. In early 2026 polls, I think National and Labour were still roughly tied, with National slightly ahead in some.
+
+I'd estimate about 55% for National finishing first.
+
+PROBABILITY: 55"
+54,claude-sonnet-5-5,no_context,4,56.0,2026-10-15,2026-10-15T19:02:27+00:00,True,"This is a judgement from memory of polling through late 2025 and early 2026, not from current data. The race for the highest party-vote share is essentially National against Labour, and the two have been very close.
+
+- **Polling:** National has usually led Labour by a small margin in poll averages, roughly 31–34% to 29–34%. Some polls have put Labour ahead, and the lead has changed hands.
+- **Other parties:** No other party is close to the top spot. NZ First has risen, but only to around 10%.
+- **Incumbency:** Governments often lose support over a term, and there has been speculation about Luxon's leadership. Both point against National.
+- **Base rate:** National has more often than not led the party vote in recent years, which favours it slightly.
+
+With a narrow edge and substantial uncertainty over three weeks, I put National slightly ahead.
+
+PROBABILITY: 56"
+54,claude-sonnet-5-5,no_context,5,57.0,2026-10-15,2026-10-15T19:02:34+00:00,True,"The question turns on a close two-party race between National and Labour, and I don't have polling from October 2026, so this rests on what I remember of the polls through early 2026.
+
+- **Polling picture:** Through 2025 and into early 2026, National and Labour were both polling in the low-to-mid 30s, and the lead swung between them from poll to poll. NZ First was rising, but it was well behind both.
+- **Direction of travel:** Concerns about Luxon's leadership and a modest Labour recovery pushed some polls toward Labour. National still led or tied in many others, including several Taxpayers' Union–Curia and Roy Morgan results.
+- **Election dynamics:** Governing parties usually lose some support over a term. National also tends to turn out its vote more reliably than polls suggest, and its campaign resources and the incumbency platform help.
+- **Overall view:** This is nearly a coin flip, and I give National a slight edge.
+
+PROBABILITY: 57"
+76,claude-sonnet-5-5,no_context,1,60.0,2026-10-15,2026-10-15T19:02:42+00:00,True,"I estimate a slightly better than even chance that the DA beats the ANC in Johannesburg, based on my recollection of past results rather than verified data.
+
+- **2021 municipal election:** The ANC led the DA in Johannesburg, roughly 34% to 26%.
+- **2024 national election:** My recollection is that the gap in Johannesburg had narrowed to a few points, with the ANC still slightly ahead. I'm unsure of the exact figures.
+- **Factors favouring the DA:**
+  - Voters have been unhappy with the ANC over poor service delivery in the city.
+  - The ANC's vote is split further by MK, the EFF, ActionSA and the Patriotic Alliance.
+  - Turnout is lower in municipal elections, and DA supporters tend to turn out more reliably.
+  - The DA has a high-profile mayoral candidate, Helen Zille.
+- **Factors favouring the ANC:** It starts with a lead from earlier elections, and the DA's gains have so far been modest and uncertain.
+
+PROBABILITY: 60"
+76,claude-sonnet-5-5,no_context,2,42.0,2026-10-15,2026-10-15T19:02:50+00:00,True,"The DA has a real chance of beating the ANC in Johannesburg, but I put it slightly below even odds.
+
+**Recent results:**
+- In the 2021 municipal elections the ANC won about 33.6% in Johannesburg and the DA about 26%.
+- In the 2024 national election the ANC still led the DA in the city, though the gap was narrower, roughly 33% to 28–30% by my recollection.
+
+**Factors favouring the DA:**
+- The ANC is weak and faces a services crisis in the city.
+- MK and the EFF split the ANC-aligned vote.
+- Municipal turnout is typically lower, which usually helps the DA.
+- The DA has had some momentum in Gauteng.
+
+**Factors favouring the ANC:**
+- The ANC starts with a lead of several points.
+- ActionSA and other opposition parties split the anti-ANC vote and take votes from the DA as well.
+- The ANC has kept a plurality in Johannesburg in every election since 1994.
+
+I'm working from memory and have no current polling, so I'm uncertain.
+
+PROBABILITY: 42"
+76,claude-sonnet-5-5,no_context,3,40.0,2026-10-15,2026-10-15T19:03:06+00:00,True,"My estimate is about 40% that the DA beats the ANC in Johannesburg. This rests on recalled figures, not fresh polling.
+
+- **2021 municipal election:** In Johannesburg the ANC took about 33.6% and the DA about 26.1%, a gap of roughly 7 points.
+- **2024 national election:** My recollection is that the ANC led the DA in Johannesburg by about 4–6 points, around 33% to 28%. MK and the EFF each took roughly 10%.
+- **Factors favouring the DA:**
+  - The ANC is weakened and split, with MK drawing some of its voters.
+  - Local elections tend to have lower turnout, which usually hurts the ANC more than the DA.
+  - Service delivery in Johannesburg is widely seen as poor under the ANC mayor.
+- **Factors favouring the ANC:**
+  - It still starts with a lead of several points.
+  - The DA vote is split with ActionSA and the Patriotic Alliance, which both compete for similar voters in the city.
+  - The DA has to overcome a gap that has persisted across several elections.
+
+The ANC remains the slight favourite, but the margin is narrow enough that a DA win is quite plausible.
+
+PROBABILITY: 40"
+76,claude-sonnet-5-5,no_context,4,55.0,2026-10-15,2026-10-15T19:03:14+00:00,True,"This is a close call, and my estimate rests on recalled figures rather than checked data.
+
+- **2021 local elections in Johannesburg:** the ANC won about 33.6% and the DA about 26%. ActionSA took roughly 16%, and much of that came from the DA's potential base.
+- **2024 national election in Johannesburg:** the gap narrowed to a few points. The ANC and DA were each around 31–33%, by my recollection. The ANC lost ground to MK and the EFF.
+- **Factors favouring the DA:**
+  - Johannesburg's service delivery has deteriorated under ANC-led coalitions.
+  - DA voters tend to turn out more reliably in local elections.
+  - MK and the EFF continue to split the ANC's potential vote.
+- **Factors favouring the ANC:** ActionSA, the Patriotic Alliance and other parties may draw votes away from the DA, as ActionSA did in 2021. The ANC also still has a strong base in Soweto and other townships.
+
+Weighing these, the DA has a slight edge, but the outcome is genuinely uncertain.
+
+PROBABILITY: 55"
+76,claude-sonnet-5-5,no_context,5,45.0,2026-10-15,2026-10-15T19:03:23+00:00,True,"The DA has a real chance of winning more votes than the ANC in Johannesburg, but I put it slightly below even.
+
+- **2021 local elections:** The ANC won about 33.6% in Johannesburg and the DA about 26%, a lead of roughly 7 points.
+- **2024 national election:** My recollection is that the gap narrowed sharply. The ANC fell to roughly 31–34% and the DA held roughly 28–30%, so the two were close.
+- **Splintering of the ANC vote:** Several parties now compete for the same voters, including MK, the EFF and ActionSA. That could push the ANC's share lower.
+- **Turnout:** Local-election turnout is usually lower, and the ANC base has historically turned out weakly in these elections. That favours the DA somewhat.
+- **DA headwinds:** The DA's ceiling in Johannesburg is limited. Helen Zille, the DA's mayoral candidate, is also polarising and may cost it some support while energising its base.
+- **Uncertainty:** I am recalling these figures from memory and have no reliable 2026 polling, so the race looks close to a toss-up with a slight ANC edge.
+
+PROBABILITY: 45"
+82,claude-sonnet-5-5,no_context,1,33.0,2026-10-15,2026-10-15T19:03:30+00:00,True,"I put the chance at about one in three. I don't have current polling for the October 27, 2026 election, so this rests on the polls I last saw and on how long coalition formation usually takes.
+
+- **Polling:** Through 2025 and into 2026, polls generally put Netanyahu's current coalition at roughly 48–52 seats, short of the 61 needed. The opposition bloc, with Bennett prominent, was often ahead or competitive, but it generally relied on Arab parties to reach a majority. Bennett has said he won't sit with Netanyahu.
+- **Path to YES:** Netanyahu needs his bloc to reach 61, or to add defectors or new partners. I'd put that at roughly 35%.
+- **Timing:** If he does win a majority, a swearing-in before March 31 is very likely. The 2022 election on November 1 produced a sworn-in government on December 29, and the formal window of 28 days plus a 14-day extension fits comfortably before the deadline.
+- **Deadlock risk:** If neither bloc reaches 61, Israel may head to yet another election, which would resolve this NO.
+
+PROBABILITY: 33"
+82,claude-sonnet-5-5,no_context,2,35.0,2026-10-15,2026-10-15T19:03:39+00:00,True,"Netanyahu's chances depend mostly on whether his bloc can reach 61 seats in the Oct 27 election, and then on how fast a coalition forms.
+
+**Timing.** If his bloc wins a clear majority, a government is usually sworn in within about 2–3 months. After the November 2022 election, the government was sworn in on Dec 29. That would fall well before March 31, 2027, though a protracted negotiation could still push it close to the deadline.
+
+**Seat math.** I don't have the latest polls. As I recall them, Netanyahu's coalition (Likud, the Haredi parties and the far-right parties) polled in the low 50s of seats. The opposition parties (Bennett, Eisenkot, Lapid, Lieberman and others) polled in the high 50s, with Arab parties adding about 10 more. Reaching 61 would take a clear poll miss or a shift in the bloc's fortunes. The Haredi draft dispute adds friction to coalition building.
+
+**Other paths.** Netanyahu could be tasked first and fail, after which the opposition might form a government. Alternatively the result could be gridlock and a repeat election, as in 2019–2021. Neither would count as YES.
+
+I put the chance that his bloc reaches 61 and completes a coalition by March 31 at roughly one in three.
+
+PROBABILITY: 35"
+82,claude-sonnet-5-5,no_context,3,30.0,2026-10-15,2026-10-15T19:03:48+00:00,True,"Netanyahu needs a 61-seat majority after the Oct 27 election, and that looks uncertain at best. I can't check current polls, so this rests on what I recall of recent polling and on past coalition timelines.
+
+- **Timing:** Coalition formation usually takes about 2 months. After the Nov 2022 election, the government was sworn in on Dec 29. Even with extensions and a second candidate, a government would normally be sworn in before Mar 31, 2027, if a majority exists. The main risk is deadlock, not time.
+- **Polling:** Recent polls, as I recall them, put Netanyahu's current bloc around 50–53 seats, short of 61. The opposition bloc, including Bennett, sits around 58–60 seats without the Arab parties, so neither side clearly reaches a majority. Netanyahu's chances depend on a late swing or on small parties crossing the threshold in his favor.
+- **Other outcomes:** A deadlock leading to yet another election, or a government led by someone else, would resolve this NO. Caretaker status does not count.
+
+I put the chance that Netanyahu forms and swears in a government by Mar 31 at somewhat under one in three.
+
+PROBABILITY: 30"
+82,claude-sonnet-5-5,no_context,4,33.0,2026-10-15,2026-10-15T19:03:55+00:00,True,"My estimate is about a one-in-three chance that Netanyahu heads a newly sworn-in government by March 31, 2027.
+
+- **Timing is workable.** After the Oct 27 election, coalition formation usually takes about two to three months. In 2022 the vote was on Nov 1 and the government was sworn in on Dec 29. A government formed by March 31 is therefore feasible, provided someone can assemble 61 seats.
+- **The main obstacle is the seat count.** The polls I know of put Netanyahu's current bloc at roughly 48–52 seats, short of 61. I don't have polling from closer to the election, so this is an extrapolation.
+- **The opposition has a similar problem.** Without the Arab parties, the opposition also looks short of 61. That makes a stalemate and a further election plausible, which would resolve NO.
+- **Other routes to YES are unlikely.** Bennett or other opposition figures have said they won't join a Netanyahu government, and a coalition drawing on Arab parties is not realistic.
+
+I put the chance that Netanyahu's bloc reaches 61 at about 30–35%, and a government formed by the deadline mostly depends on that.
+
+PROBABILITY: 33"
+82,claude-sonnet-5-5,no_context,5,38.0,2026-10-15,2026-10-15T19:04:04+00:00,True,"Netanyahu needs a coalition of 61 seats after the Oct 27 election, and the timeline is not the constraint. After the November 2022 election, the government was sworn in about two months later. The legal process allows roughly 42 days for the first mandate, plus a further period for a second candidate. So a government formed by March 31, 2027 is feasible if a bloc can reach 61.
+
+The real uncertainty is whether he can get there. My recollection of recent polling, which I can't verify for this date, is that his coalition with the Haredi and religious-Zionist parties sits around 48–53 seats. The Zionist opposition, including a strong Bennett list, sits near 58–60, and the Arab parties hold about 10. Three outcomes seem plausible:
+
+- **Netanyahu reaches 61:** He wins if the coalition outperforms its polls, or if he peels off a defector or two.
+- **Opposition forms a government:** It would need either 61 without the Arab parties or their outside support, which looks hard.
+- **Deadlock:** This could mean repeated elections, as in 2019–2021, or a unity government. A unity government might or might not be led by Netanyahu, and Likud might replace him as leader to make one.
+
+On balance, I put his chance of heading a newly sworn-in government by the deadline a bit under 40%.
+
+PROBABILITY: 38"
+100,claude-sonnet-5-5,no_context,2,88.0,2026-10-15,2026-10-15T19:04:10+00:00,True,"Polling through 2025 and 2026 has generally put support for Alberta independence at roughly 25–35%, with a clear majority wanting to stay in Canada. Referendums on secession usually show some late drift toward the status quo. The main exception would be an unusual surge in turnout among separatists, which seems unlikely given the polling gap.
+
+The main uncertainty is procedural. I'm not certain that an independence question is actually on the October 19 ballot. If it isn't, or the vote is cancelled or reworded, the question might not resolve YES. The question's wording suggests the question exists, so I discount only modestly for this.
+
+Assuming the vote happens, I put the chance that ""remain"" wins a majority of valid votes at roughly 92%. Allowing for the procedural risk, I land a little lower.
+
+PROBABILITY: 88"
+100,claude-sonnet-5-5,no_context,3,88.0,2026-10-15,2026-10-15T19:04:16+00:00,True,"The main uncertainty is whether the independence question is actually on the October 19 ballot, and I'm not sure it is. The question's wording (""remain a province of Canada"") suggests it is. If it were dropped or the vote cancelled, the question would probably not resolve YES.
+
+If the vote does happen, polling in Alberta has generally put support for independence at roughly 25–35%, with about 60–70% preferring to stay in Canada. Referendums on secession also tend to move toward the status quo as the vote approaches, as in Quebec in 1995 and Scotland in 2014. A ""remain"" majority therefore looks very likely.
+
+PROBABILITY: 88"
+100,claude-sonnet-5-5,no_context,4,92.0,2026-10-15,2026-10-15T19:04:22+00:00,True,"Polling on Alberta separation has generally shown roughly 25–35% support for leaving, with a clear majority favouring staying in Canada. If an independence question is on the October 19 ballot, ""remain"" should win a majority of valid votes. A shift large enough to overturn that margin in the few days left is very unlikely.
+
+The main risk is not the vote itself but whether the question is actually on the ballot as worded, or whether the vote is postponed, cancelled or otherwise fails to resolve. The question's detailed framing suggests the independence question is on the ballot, so I put that risk at a few percent. There is also a small chance of a surprisingly close result or an unusual turnout pattern.
+
+PROBABILITY: 92"
+100,claude-sonnet-5-5,no_context,5,88.0,2026-10-15,2026-10-15T19:04:28+00:00,True,"Polling through 2025 and early 2026 generally put support for Alberta leaving Canada at roughly 25–35%. Support for remaining has typically been around 60–70%. Support for separation would need a very large swing in the days before the vote to reach a majority. Referendum campaigns often show some late movement toward the status quo, which also favors ""remain"".
+
+Two things keep this below the high-90s. Polls on secession can miss turnout effects, since motivated separatists may vote at higher rates. There is also some risk that the question's wording, ballot status or resolution mechanics differ from what I expect, which could make it resolve NO or be voided. I take the question's framing to mean the independence question is on the ballot.
+
+Overall, ""remain"" winning more than 50% of valid votes looks very likely.
+
+PROBABILITY: 88"
+44,claude-sonnet-5-5,no_context,1,25.0,2026-10-15,2026-10-15T19:08:48+00:00,True,"Base rates: hurricane landfalls in the Caribbean from Oct 16 to Nov 30 are fairly common but not annual. Recent examples:
+
+- 2025: Melissa (Oct 28, Jamaica Cat 5, then Cuba), so yes.
+- 2024: Rafael (Nov 6, Cuba Cat 3), so yes.
+- 2023: none that I recall. Tammy hit Barbuda on Oct 21-22 as a Cat 1, so yes.
+- 2022: Lisa (Nov 2) hit Belize as a Cat 1. Belize is not an island, but arguably Caribbean. Nicole (Nov 10) hit the Bahamas as a Cat 1 (Grand Bahama and Abaco), so yes if the Bahamas count.
+- 2021: none. Hurricane Sam stayed out at sea, so no.
+- 2020: Eta (Nov 3, Nicaragua), Iota (Nov 16, Nicaragua), and Eta in Cuba as a tropical storm. Delta hit Cozumel/Mexico on Oct 7, outside the window. Iota hit Colombia's Providencia as a Cat 5 on Nov 16, so yes.
+- 2019: no.
+- 2018: no (Oscar stayed out at sea).
+- 2017: no (Ophelia stayed out at sea).
+- 2016: Otto (Nov 24) hit Nicaragua and passed near Costa Rica. Matthew was early October. Mainland Central America is arguably not an island nation, so uncertain. Cuba and Haiti were hit by Matthew in early October, outside the window.
+- 2015: no.
+- 2014: no.
+- 2013: no.
+- 2012: Sandy hit Jamaica on Oct 24 and Cuba, so yes.
+
+That makes roughly 5 clear yes years out of 14, or about 35-40%.
+
+For 2026, ENSO is a factor. A developing El Niño in 2026 would suppress Atlantic activity, especially late in the season. I don't know the current state of the season as of Oct 15, 2026. Without that, I'd go slightly below the base rate, around 25-30%.
+
+PROBABILITY: 25"
+44,claude-sonnet-5-5,no_context,5,20.0,2026-10-15,2026-10-15T19:08:54+00:00,True,"Base rates: Caribbean hurricane landfalls from Oct 16 to Nov 30 occur in a minority of years, though recent years have had several.
+
+Recent years:
+- 2025: Melissa made landfall in Jamaica on Oct 28 as a Cat 5, and then in Cuba. Yes.
+- 2024: Rafael hit Cuba on Nov 6 as a Cat 3. Yes.
+- 2023: No. Tammy hit Barbuda on Oct 21–22 as a Cat 1, so arguably yes. Tammy passed over Barbuda as a hurricane, which counts.
+- 2022: Lisa hit Belize on Nov 2 as a Cat 1. Belize is arguably Caribbean, but it is not an island. Nicole hit the Bahamas (Grand Bahama) as a hurricane on Nov 9–10, so yes if the Bahamas counts as Caribbean. It is often grouped with the Caribbean.
+- 2021: No.
+- 2020: Eta (Nov 3, Nicaragua, not an island), Iota (Nov 16, Nicaragua), Zeta (Mexico/Yucatán, Oct 26). Not clearly. Delta hit Cozumel on Oct 7, outside the window. Probably no for islands.
+- 2019: No.
+- 2018: No.
+- 2017: No. Ophelia and Maria were out of window.
+- 2016: Matthew was early October. Otto hit Nicaragua at the end of November. No.
+- 2015: No.
+- 2014: No.
+- 2013: No.
+- 2012: Sandy hit Jamaica and Cuba on Oct 24–25. Yes.
+
+That is roughly 5 of 14 years, or about 35%, with some ambiguity. The question was created on Oct 15, 2026, and the ENSO state matters. 2026 may be trending toward El Niño, which suppresses the Atlantic, though late-season activity can still occur. I don't know the current activity, and with no active system known, I'd estimate about 20–25%.
+
+PROBABILITY: 20"
