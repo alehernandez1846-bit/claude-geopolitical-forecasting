@@ -14,4 +14,7 @@ An evaluation of how well Claude forecasts real-world geopolitical events.
 - `run_forecasts.py`: script that collects Claude's forecasts
 - `forecasts.csv`: Claude's recorded forecasts (timestamped)
 
-*Work in progress.*
+## Results so far
+   | # | Question | Claude's forecast | Outcome | Brier |
+   |---|---|---|---|---|
+   | 100 | Alberta votes to remain in Canada | 89.6% | YES | 0.011 |
