@@ -4537,3 +4537,91 @@ Parliament sessions between now and June 2027 are the winter session (Nov–Dec 
 I don't know of any developments through October 2026 that would change this. The base rate of the government acting in any given 8-month window seems low, perhaps 8–10%. The BJP might use statehood as a political card, but J&K has no imminent election (the next assembly election is due in 2029), and the Supreme Court may push the government. Overall, I estimate about 7%.
 
 PROBABILITY: 7"
+18,claude-sonnet-5-5,with_context,1,38.0,2026-10-15,2026-10-25T04:09:28+00:00,True,"The first round gave Flávio 47.03% of valid votes to Lula's 45.16%. The remaining roughly 8% went to other candidates, and I'd expect most of those voters to lean right or center-right, which helps Flávio. Runoff polls show Flávio ahead by 0 to 2 points, which is within the margin of error.
+
+Brazilian polls have tended to underestimate the right. Bolsonaro outperformed them in 2018 and 2022, and Flávio did the same in this first round. That makes a small poll lead for Flávio somewhat more credible.
+
+Lula has incumbency and a strong runoff record: in 2022 he gained a bit in the second round but still won by only 1.8 points. Here Lula trails in the first round, and the third-party vote is likely to split in Flávio's favor.
+
+Overall I put Flávio at a modest favorite, about 60%, so Lula is near 38-40%.
+
+PROBABILITY: 38"
+18,claude-sonnet-5-5,with_context,2,37.0,2026-10-15,2026-10-25T04:09:32+00:00,True,"The first round gave Flávio 47.03% and Lula 45.16% of valid votes, a lead of about 1.9 points. Other candidates took roughly 7.8%, and those votes will matter in the runoff.
+
+Runoff polls show Flávio narrowly ahead, by 0 to 2 points. Those polls probably exclude undecided voters, and the remaining undecided share is small.
+
+The first round also showed Flávio beating the polls, so polling may be underestimating the right. In 2022, Bolsonaro outperformed the first-round polls, but the runoff polls were fairly accurate, and Lula won 50.9 to 49.1.
+
+Where the remaining 7.8% goes is uncertain. It likely includes center and center-right candidates such as Ratinho Jr., Caiado, Zema, and Ciro, though I don't know who actually ran. If those candidates were mostly right of center, their voters lean toward Flávio. Ciro-type voters lean toward Lula. On balance, Flávio probably holds the edge.
+
+Lula is the incumbent, with a strong ground game in the Northeast, and runoff turnout and rejection rates matter. Lula's rejection is high, but so is Flávio's. A 2-point first-round deficit with the other candidates' voters leaning slightly right suggests Flávio is the favorite, at roughly 60-65%.
+
+I estimate Lula's chance at about 37%.
+
+PROBABILITY: 37"
+18,claude-sonnet-5-5,with_context,3,41.0,2026-10-15,2026-10-25T04:09:36+00:00,True,"This is a near coin flip, with Flávio holding a slight edge.
+
+**Polls:** Runoff polls show Flávio ahead by 0-2 points, mostly within the margin of error. Datafolha has him at 47-45, Quaest at 46-44, and PoderData has a tie at 47.
+
+**First round:** Flávio led Lula 47.03% to 45.16%, and he outperformed the polls. That suggests the polls may have underestimated the right, as they did in 2018 and 2022. In 2022, Bolsonaro outperformed the polls in round one, and Lula won the runoff narrowly, 50.9% to 49.1%.
+
+**Remaining vote:** Only about 7.8% of valid votes went to other candidates, so the runoff depends on how those voters split and on turnout. Those voters may lean somewhat centrist or anti-incumbent, which could favor Flávio. Lula as the incumbent has a machine advantage, particularly in the Northeast, where turnout matters.
+
+**Estimate:** Flávio led the first round by about 1.9 points, and the polls show him ahead by about 1-2. That puts the chance of a Lula win at roughly 40-42%.
+
+PROBABILITY: 41"
+18,claude-sonnet-5-5,with_context,4,38.0,2026-10-15,2026-10-25T04:09:40+00:00,True,"The first round gave Flávio 47.03% against Lula's 45.16% of valid votes. The remaining ~8% went to other candidates, and those voters are probably more centrist or right-leaning, which favors Flávio. Runoff polls show Flávio ahead by about 0-2 points, mostly within the margin of error.
+
+Brazilian polls have had mixed accuracy. In 2022, Bolsonaro outperformed polls in the first round, and the runoff was close at 50.9 to 49.1 for Lula. Polls in that runoff were roughly accurate, with a slight underestimate of Bolsonaro.
+
+Flávio led in the first round by 1.9 points, which suggests a slight edge, and the polls agree. Lula is the incumbent with a strong machine and a strong runoff record, but the momentum is with Flávio. The first-round pattern in which the right outperformed polls hints that polling may underestimate the right again.
+
+I estimate Flávio's win probability at about 60-62%, which puts Lula at about 38-40%.
+
+PROBABILITY: 38"
+18,claude-sonnet-5-5,with_context,5,40.0,2026-10-15,2026-10-25T04:09:43+00:00,True,"Flávio led the first round 47.03% to 45.16%, and runoff polls show him narrowly ahead, within the margin of error. The first-round vote also matters for the remaining 7.8%. Those voters probably lean toward the right or are anti-PT, since the other candidates (Ratinho Jr., Caiado, Zema, etc.) seem to have drawn mostly from the right. That favors Flávio.
+
+Lula is an experienced campaigner, and in 2022 he gained a little in the runoff, but Bolsonaro also outperformed the polls in 2022's first round. The polls missed in Flávio's favor here as well, which suggests some hidden right-leaning vote. First-round leaders usually win, though not always, as in 2022 when Lula led and won narrowly.
+
+Overall I put Flávio's chance at about 58-60%, so Lula's is about 41%.
+
+PROBABILITY: 40"
+24,claude-sonnet-5-5,with_context,1,96.0,2026-10-15,2026-10-25T04:09:47+00:00,True,"The airport has an official opening date of October 25, 2026, which is 10 days from today and 6 days before the deadline. The freight operations were reportedly on schedule. The airport has been built and tested, and airlines (Qantas/Jetstar, Virgin, Rex, etc.) have announced schedules and sold tickets. A delay of more than six days would be unusual this late, since the airport would need an operational issue such as a safety certification problem, a major weather event, or an industrial dispute. Even with a first-day delay, the first flights would likely fall within the window.
+
+One thing to consider: the question says ""a scheduled commercial passenger flight departs or arrives"". Jetstar's first service on October 25 would satisfy this. The remaining risk is that the opening is postponed, which looks unlikely given the government's public commitment and the airport's certification (aerodrome certificate) being already obtained.
+
+I estimate a probability of around 96%.
+
+PROBABILITY: 96"
+24,claude-sonnet-5-5,with_context,2,97.0,2026-10-15,2026-10-25T04:09:50+00:00,True,"The airport is set to open on October 25, 2026, which is only 10 days after today's date and 6 days before the deadline. Opening dates announced this close to launch rarely slip, particularly when the government has formally announced the date, airlines have sold tickets, and freight operations have already begun. The remaining risks are a last-minute safety or regulatory issue, severe weather, or a technical problem. Even a delay of a few days would still fall inside the window.
+
+One caveat is that the first Jetstar flight might be scheduled for a time that creates ambiguity. For example, it could depart on October 25 or 26, but either date would still qualify.
+
+Overall I put the probability at about 97%.
+
+PROBABILITY: 97"
+24,claude-sonnet-5-5,with_context,3,96.0,2026-10-15,2026-10-25T04:09:53+00:00,True,"The airport has an officially announced opening date of October 25, 2026, only 10 days after today's date. It's a government-backed project, and the date was announced in June, so it's well past the planning stage. Airport openings with a firmly announced date this close almost always go ahead, since airlines have already sold tickets, staff are trained, and trials are complete. The freight start in July also suggests operations are on track.
+
+The main risks are a last-minute safety or regulatory problem, severe weather on the first day, or a short delay. Even a delay of a few days would still fall inside the window, which runs to October 31. Another risk is that the first flight is a Jetstar service departing or arriving on October 25, and a cancellation could push it back a day or two, which would still count.
+
+Overall, I put the probability at about 96%.
+
+PROBABILITY: 96"
+24,claude-sonnet-5-5,with_context,4,96.0,2026-10-15,2026-10-25T04:09:57+00:00,True,"The airport has an official opening date of October 25, 2026, which is 10 days from today and 6 days before the deadline. The government has announced the date, and freight operations were already scheduled to start in July. Airlines have sold tickets for the opening, so a late postponement is unlikely. Any slip would need to push the first flight more than six days, and that would take something major such as a safety certification problem, an industrial dispute, or a severe weather event.
+
+Big airport openings do sometimes slip, but they rarely do so this close to a date that has been publicly committed, with ticketed flights already sold. Examples of last-minute delays exist, but they are rare. The airport's construction is reportedly complete, and Airservices and CASA approvals had been progressing.
+
+One ambiguity is whether the first flight on October 25 might be a non-scheduled event, such as a ceremonial flight. The question asks for a scheduled commercial passenger flight, and Jetstar's first scheduled service is planned for opening day, so that should count.
+
+I put the probability at about 96%.
+
+PROBABILITY: 96"
+24,claude-sonnet-5-5,with_context,5,96.0,2026-10-15,2026-10-25T04:09:59+00:00,True,"The airport is scheduled to open to passengers on October 25, 2026, which is 10 days from today and 6 days before the deadline. The government has announced the date officially, and freight operations were meant to start in July. Airports this close to a confirmed opening rarely slip, because airlines have sold tickets, staff are trained, and operational readiness trials are largely complete.
+
+The main risks are a last-minute safety or regulatory problem, severe weather, or an industrial dispute. Even a delay of a few days would still land inside the window, since there are six days of buffer.
+
+The question also says ""departs or arrives."" The first Jetstar flight on October 25 would satisfy that.
+
+I put the probability high, around 96%.
+
+PROBABILITY: 96"
