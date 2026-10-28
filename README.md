@@ -15,6 +15,8 @@ An evaluation of how well Claude forecasts real-world geopolitical events.
 - `forecasts.csv`: Claude's recorded forecasts (timestamped)
 
 ## Results so far
-   | # | Question | Claude's forecast | Outcome | Brier |
-   |---|---|---|---|---|
-   | 100 | Alberta votes to remain in Canada | 89.6% | YES | 0.011 |
+| # | Question | No context | With context | Outcome |
+|---|---|---|---|---|
+| 100 | Alberta votes to remain in Canada | 89.6% | n/a | YES |
+| 24 | Western Sydney Airport opens by Oct 31 | 6.8% | 96.2% | YES |
+| 18 | Lula wins Brazil runoff | 55.4% | 38.8% | YES |
