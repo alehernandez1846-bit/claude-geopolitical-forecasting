@@ -20,3 +20,5 @@ An evaluation of how well Claude forecasts real-world geopolitical events.
 | 100 | Alberta votes to remain in Canada | 89.6% | n/a | YES |
 | 24 | Western Sydney Airport opens by Oct 31 | 6.8% | 96.2% | YES |
 | 18 | Lula wins Brazil runoff | 55.4% | 38.8% | YES |
+| 17 | Democrats win both House and Senate | 28.2% | n/a | YES |
+| 76 | DA beats ANC in Johannesburg | 48.4% | n/a | YES |
